@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @prakash-pg
 - 👀 I’m interested in Internet of Things , Machine Leaning, Data Analytics, Block Chain and Cyber Security 
 - 🌱 I’m currently Studying M.Tech IoT and Sensor Systems in Vit University Vellore
-- 💞️ I’m looking to collaborate with Various People to Explore Various Projects to be implemented in Real Life
 - Likes to Learn new things in Stack Overflow from Various People
 - 📫 How to reach me 
 - Gmail : prakashpg1298@gmail.com
