@@ -3,7 +3,7 @@
 - 🌱 I’m currently Studying M.Tech IoT and Sensor Systems in Vit University Vellore
 - 📫 How to reach me 
 - Gmail : prakashpg1298@gmail.com
-- Contact no : 8838170936
+
 
 
 
